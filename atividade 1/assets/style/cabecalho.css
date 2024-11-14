@@ -1,0 +1,45 @@
+#cabecalho{
+    border: 7px solid red;
+    display: flex;
+    background-color: #272C34;
+    justify-content:space-around;
+    
+    
+   
+   
+}
+
+.cabecalho_ul{
+    display: flex;
+    width: 100%;
+    list-style: none;
+    color: #fff;
+    
+   
+    
+}
+
+.cabecalho_ul li{
+    padding: 18px;
+   
+}
+
+.cabecalho_ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+}
+
+.img_cabecalho{
+    position: relative;
+    left: -250px;
+}
+
+.cabecalho_ul li a:hover{
+    color: red;
+
+}
+
+
+
+
